@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"8u8hk95r59rsc","package_name":"simple","contract_name":"Groth16VerifierBN254","module_path":"simple::groth16_verifier::Groth16VerifierBN254","artifacts":{"sierra":"simple_Groth16VerifierBN254.contract_class.json","casm":"simple_Groth16VerifierBN254.compiled_contract_class.json"}}]}

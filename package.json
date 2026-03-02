@@ -25,8 +25,10 @@
     "circomlib": "^2.0.5",
     "commander": "^14.0.0",
     "fs-extra": "^11.3.0",
+    "garaga": "^1.0.1",
     "snarkjs": "^0.7.5",
     "solc": "^0.8.29",
+    "starknet": "^6.11.0",
     "web3": "^1.10.0"
   },
   "files": [

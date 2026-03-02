@@ -3,7 +3,7 @@
 const { program } = require('commander');
 const { compileCircuit } = require('../lib/compile');
 const { testCircuit } = require('../lib/test');
-// const { deployVerifier } = require('../lib/deploy');
+const { deployVerifier } = require('../lib/deploy');
 // const { verifyProof } = require('../lib/verify');
 
 program
@@ -20,17 +20,17 @@ program
     testCircuit(folder, inputJson);
   });
 
-  // program
-  // .command('deploy <folder> <privateKey>')
-  // .description('Deploy verifier.sol in folder to Starknet using provided private key')
-  // .action((folder, privateKey) => {
-  //   deployVerifier(folder, privateKey);
-  // });
+  program
+  .command('deploy <folder> <privateKey> <accountAddress>')
+  .description('Deploy verifier.sol in folder to Starknet using provided private key and account address')
+  .action((folder, privateKey, accountAddress) => {
+    deployVerifier(folder, privateKey, accountAddress);
+  });
 
 
   program.parse(process.argv);
 
 
 module.exports = {
-  verifyProof
+  // verifyProof
 };    
