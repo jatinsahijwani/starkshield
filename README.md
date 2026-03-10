@@ -24,8 +24,6 @@
 
 <br />
 
-[Future scope document](./FUTURE.md)
-
 [📦 npm Package](#-installation) · [🚀 Quick Start](#-quick-start) · [📖 API Reference](#-api-reference) · [🔍 Live Demo](#-live-demo) · [🏗️ Architecture](#️-architecture)
 
 </div>
