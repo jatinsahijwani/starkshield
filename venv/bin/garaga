@@ -1,0 +1,6 @@
+#!/Users/kunwaranirudhsinghchouhan/Desktop/demo/starkshield/venv/bin/python3.10
+import sys
+from garaga.starknet.cli.starknet_cli import app
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(app())

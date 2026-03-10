@@ -1,0 +1,4 @@
+[sncast.default]
+network = "sepolia"
+accounts-file = "/Users/kunwaranirudhsinghchouhan/.starknet_accounts/starknet_open_zeppelin_accounts.json"
+account = "starkshield-simple-1773143485487"

@@ -1,5 +1,5 @@
 {
-  "contractAddress": "0x006fd9d245941ac88985105707f0c9d3273c63e48d0862dc4c222691e18fad9e",
+  "contractAddress": "0x05add160ddfb0804bb9d8569e4ad30f75bba2a2d3b835b9c8d248908a2102030",
   "classHash": "0x0794ce5753c36e7109361037c18690318bf760325b3f74b78962e62f3d46fedf",
   "abi": [
     {
@@ -87,10 +87,10 @@
   "circuitName": "simple",
   "network": "sepolia",
   "paths": {
-    "verificationKey": "/Users/jatinsahijwani/Desktop/custom/starkshield/simple/verification_key.json",
-    "zkey": "/Users/jatinsahijwani/Desktop/custom/starkshield/simple/circuit_final.zkey",
-    "wasm": "/Users/jatinsahijwani/Desktop/custom/starkshield/simple/simple_js/simple.wasm",
-    "r1cs": "/Users/jatinsahijwani/Desktop/custom/starkshield/simple/simple.r1cs"
+    "verificationKey": "/Users/kunwaranirudhsinghchouhan/Desktop/demo/starkshield/simple/verification_key.json",
+    "zkey": "/Users/kunwaranirudhsinghchouhan/Desktop/demo/starkshield/simple/circuit_final.zkey",
+    "wasm": "/Users/kunwaranirudhsinghchouhan/Desktop/demo/starkshield/simple/simple_js/simple.wasm",
+    "r1cs": "/Users/kunwaranirudhsinghchouhan/Desktop/demo/starkshield/simple/simple.r1cs"
   },
-  "deployedAt": "2026-03-02T08:05:37.228Z"
+  "deployedAt": "2026-03-10T11:51:53.271Z"
 }
