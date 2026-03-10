@@ -21,9 +21,9 @@
 
 *Zero-Knowledge proof infrastructure for every developer. No cryptography expertise required.*
 
-[Future scope document](./FUTURE.md)
-
 <br />
+
+[Future scope document](./FUTURE.md)
 
 [📦 npm Package](#-installation) · [🚀 Quick Start](#-quick-start) · [📖 API Reference](#-api-reference) · [🔍 Live Demo](#-live-demo) · [🏗️ Architecture](#️-architecture)
 
