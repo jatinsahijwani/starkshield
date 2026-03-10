@@ -55,20 +55,8 @@ const result = await verifyProof({ input: { ... } }, "./myCircuit");
 
 ## 🏗️ Architecture
 
-<!-- ============================================================ -->
-<!-- 📸 INSERT ARCHITECTURE DIAGRAM IMAGE HERE                    -->
-<!-- Replace the placeholder below with your diagram              -->
-<!-- Example: ![Architecture](./docs/architecture.png)            -->
-<!-- ============================================================ -->
-
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    [ ARCHITECTURE DIAGRAM ]                         │
-│                                                                     │
-│              📸 Add your architecture image here                    │
-│         ![StarkShield Architecture](./docs/architecture.png)        │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+<img width="4300" height="2400" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/ce8bac04-df46-4db0-848a-09e235684d31" />
 ```
 
 ### How it works end-to-end
