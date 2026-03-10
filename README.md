@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 
 <br /><br />
-<div align="center">
+
 ```
 ███████╗████████╗ █████╗ ██████╗ ██╗  ██╗███████╗██╗  ██╗██╗███████╗██╗     ██████╗
 ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██║  ██║██║██╔════╝██║     ██╔══██╗
@@ -16,7 +16,8 @@
 ███████║   ██║   ██║  ██║██║  ██║██║  ██╗███████║██║  ██║██║███████╗███████╗██████╔╝
 ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═════╝
 ```
-</div>
+
+
 ### **Write Circom. Compile. Deploy. Verify — Powered by Starknet.**
 
 *Zero-Knowledge proof infrastructure for every developer. No cryptography expertise required.*
